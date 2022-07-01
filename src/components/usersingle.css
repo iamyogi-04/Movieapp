@@ -1,0 +1,7 @@
+.container-single {
+    display: flex;
+    border: 1px solid lightgray;
+    padding: 10px;
+    align-items: center;
+    margin-bottom: 10px;
+}
